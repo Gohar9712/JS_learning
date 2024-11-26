@@ -83,4 +83,3 @@ var n=10;
 //} else {
   //  console.log('Odd');
 ///}
-(n%2===0) ? : out='eve'

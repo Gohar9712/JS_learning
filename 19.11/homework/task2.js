@@ -1,10 +1,4 @@
-//Homework1
-const n=5;
-for (let i = 1; i <= 10; i++) {
-    console.log(n +'* ' + i + ' = ' + n * i);
-}
-
-//Homework2
+//space change
 const input = "I am learning JavaScript";
 let output = ""; 
 for (let i = 0; i < input.length; i++) {
